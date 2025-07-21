@@ -1,1 +1,2 @@
-# Skin-diagnosis-appddd
+# Skin-diagnosis-app
+
